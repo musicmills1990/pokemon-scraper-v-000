@@ -16,4 +16,3 @@ end
 
 def self.id
 end
-
