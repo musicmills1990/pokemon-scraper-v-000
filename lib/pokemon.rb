@@ -14,5 +14,6 @@ attr_accessor :id, :name, :type, :db
   end
 end
 
-def find
+def self.find
+
 end
